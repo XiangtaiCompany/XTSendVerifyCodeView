@@ -1,0 +1,7 @@
+XTSendVerifyCodeView.xcodeproj/xcuserdata/
+XTSendVerifyCodeView.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+XTSendVerifyCodeView.xcodeproj/project.xcworkspace/xcuserdata/
